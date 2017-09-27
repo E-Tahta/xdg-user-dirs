@@ -1,3 +1,9 @@
+xdg-user-dirs (0.15-3) unstable; urgency=medium
+
+  * Add patches
+
+ -- Yunusemre Şentürk <yunusemre.senturk@pardus.org.tr>  Wed, 27 Sep 2017 14:11:53 +0300
+
 xdg-user-dirs (0.15-2) unstable; urgency=medium
 
   * Make xdg-user-dirs Multi-Arch: foreign as this is a tool which can be run
